@@ -1,0 +1,52 @@
+body
+{
+	font-family:"Quicksand" ;
+	background-image:url("Background.png") ;
+	background-repeat:no-repeat ;
+}
+    #div1
+	{
+	float: right;	
+	padding-left:181px ;
+	padding-right:181px ;
+	}
+
+	#div2
+	{
+	float: left;	
+	}
+
+	.name_div , .age_div , .grade_div  
+	{
+		
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		align-content: center;
+	}
+
+
+ #Name , #Age, #Class
+{
+	display: inline-block;
+	margin-right: 50px;
+	width: 80px ;
+	
+
+}
+
+
+#background{
+
+padding-right: 100% ;
+	
+}
+
+#next{
+background-color:rgb(244, 159, 133) ;
+border-color:rgb(182, 108, 103) ;
+border-radius: 20px ;
+width: 150px ;
+height: 30px ;
+}
